@@ -1,10 +1,13 @@
 title: Al Gill, PhD 
 logo: "/images/Al_4_Gits.jpg?raw=true" # your photo (or logo) here
-description:  
-  Group Project (Cambridge Spark Bootcamp) 
+description:
+  <br><br>
+  Group Project (Spark Bootcamp) 
   <br><br>
   Why are VC returns pareto distributed?
   <br><br>
   <a href="https://www.linkedin.com/in/alasdairgill/"> View My LinkedIn Profile </a> 
+  <br><br>
+  <a href="https://www.high-level-route.com"> In my spare time... </a>
   
 theme: jekyll-theme-minimal
